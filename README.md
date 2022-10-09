@@ -9,33 +9,33 @@ Adds:
 * More coming soon!
 
 # Step 1
-Go to your browsers extension store and download "Code Injector". Wait for it to download and move to step 2
+Go to your browsers extension store and download "Code Injector". Wait for it to download and move to step 2\n
 <img src="images/screen1.png">
 
 # Step 2
-Go into your extensions list
-<img src="images/screen2.png">
-Then click "Code Injector"
+Go into your extensions list\n
+<img src="images/screen2.png">\n
+Then click "Code Injector"\n
 <img src="images/screen3.png">
 
 # Step 3
-Click "Add rule"
-<img src="images/screen4.png">
-You should see
+Click "Add rule"\n
+<img src="images/screen4.png">\n
+You should see\n
 <img src="images/screen7.png">
 
 # Step 4
-Go to [Photop](https://app.photop.live) and click "Current host"
-<img src="images/screen5.png">
-It should now look like this
+Go to [Photop](https://app.photop.live) and click "Current host"\n
+<img src="images/screen5.png">\n
+It should now look like this\n
 <img src="images/screen6.png">
 
 # Step 5
-Copy (click to select all): <span style="user-select:all;">
+Copy (click to select all): <span style="user-select:all;">\n
   loadScript("https://6jtn24.csb.app/index.js")
 </span> and paste it in the textbox in the Code Injector popout.
 
-Should look like this
+Should look like this\n
 <img src="images/screen8.png">
 
 # Step 6
